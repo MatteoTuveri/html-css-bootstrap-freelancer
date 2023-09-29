@@ -1,25 +1,24 @@
-
-
-.debug{
+.debug {
     border: 1px solid inherit;
 }
 
-.font-1-5{
+.font-1-5 {
     font-size: 1.5em;
 }
 
-.mt-bg-green{
+.mt-bg-green {
     background-color: var(--bs-teal);
 }
 
-.mt-bg-grey-1{
-    background-color:rgb(58, 84, 109) ;
+.mt-bg-grey-1 {
+    background-color: rgb(58, 84, 109);
 }
-.mt-bg-grey-2{
+
+.mt-bg-grey-2 {
     background-color: rgb(44, 62, 80);
 }
 
-.cube{
+.cube {
     height: 50px;
     width: 50px;
 }
